@@ -9,7 +9,7 @@ use Composer\Composer,
 	Composer\IO\IOInterface,
 	Composer\Plugin\PluginInterface;
 
-use Metabolism\WordpressInstaller\Composer\Installer\PackageInstaller;
+use Metabolism\WordpressCoreInstaller\Composer\Installer\PackageInstaller;
 
 /**
  * Class Plugin
