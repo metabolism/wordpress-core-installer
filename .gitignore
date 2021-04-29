@@ -1,12 +1,3 @@
-.sass-cache
 .idea
-.rb
-.map
-.DS_Store
-npm-debug.log
-node_modules
-debug*
-*.debug
-*.lock
-auth.json
 vendor
+composer.lock
